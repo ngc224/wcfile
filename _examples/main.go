@@ -18,8 +18,6 @@ var patterns = []*wcfile.Pattern{
 	},
 	{
 		FileName: "logs/access/global.log",
-		Word:     "192.168.",
-		Not:      true,
 	},
 }
 
