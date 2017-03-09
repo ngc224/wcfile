@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ngc224/wcfile"
+	"github.com/nissy/wcfile"
 )
 
 var patterns = []*wcfile.Pattern{
